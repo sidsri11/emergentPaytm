@@ -16,7 +16,7 @@ const banners = [
   {
     id: 2,
     title: 'Paytm HDFC Bank Credit Card',
-    description: 'India's Most Sincere Credit Card with 5% Unlimited Cashback on all spends.',
+    description: "India's Most Sincere Credit Card with 5% Unlimited Cashback on all spends.",
     image: 'https://assetscdn1.paytm.com/images/catalog/view_item/853975/1640241561388.png',
     buttonText: 'Apply Now',
     buttonLink: '/credit-card',
